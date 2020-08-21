@@ -16,7 +16,8 @@ Images are more talkative than long texts, so here are few samples of what our e
 <img src="/data/samples/water_deformation.jpg" width="384" height="216"> <img src="/data/samples/plants.jpg" width="384" height="216">
 
 Here is a demonstration video that shows some scenes captured from the game (*you have to click on the image below*):
-[![Demonstration Video](https://img.youtube.com/vi/cHuE7GmoEc8/0.jpg)](https://www.youtube.com/watch?v=cHuE7GmoEc8 "Demonstration Video")
+
+[![Demonstration Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1598040748/video_to_markdown/images/youtube--cHuE7GmoEc8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=cHuE7GmoEc8 "Demonstration Video")
 
 
 **For further details about the conception of this project, you can watch the french (but subtitled) explanation video available [https://youtu.be/dpVvFUy8lug](**here**).**
