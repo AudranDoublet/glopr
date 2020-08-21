@@ -11,9 +11,9 @@ The project is entirely written in Rust and GLSL (for OpenGL).
 
 Images are more talkative than long texts, so here are few samples of what our engines are capable of:
 
-<img src="/data/samples/sky_sctr.jpg" width="250" height="250"> <img src="/data/samples/lights.jpg" width="250" height="250">
-<img src="/data/samples/hole.jpg" width="250" height="250"> <img src="/data/samples/trees.jpg" width="250" height="250">
-<img src="/data/samples/water_deformation.jpg" width="250" height="250"> <img src="/data/samples/plants.jpg" width="250" height="250">
+<img src="/data/samples/sky_sctr.jpg" width="384" height="216"> <img src="/data/samples/lights.jpg" width="384" height="216">
+<img src="/data/samples/hole.jpg" width="384" height="216"> <img src="/data/samples/trees.jpg" width="384" height="216">
+<img src="/data/samples/water_deformation.jpg" width="384" height="216"> <img src="/data/samples/plants.jpg" width="384" height="216">
 
 Here is a demonstration video that shows some scenes captured from the game (*you have to click on the image below*):
 [![Demonstration Video](https://img.youtube.com/vi/cHuE7GmoEc8/0.jpg)](https://www.youtube.com/watch?v=cHuE7GmoEc8 "Demonstration Video")
